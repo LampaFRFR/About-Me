@@ -10,7 +10,8 @@ Hey! I’m **Lampa**, a dev who builds weirdly powerful stuff with code — most
 ### 🔗 My World
 - 🌐 Website: [lampafr.dev](https://lampafr.dev)
 - 🧠 Projects: [GitHub Repos](https://github.com/LampaFRFR?tab=repositories)
-- 🗨️ Hit me up: Discord Server [Discord Server](https://discord.gg/VfkAERntMQ)
+- 🗨️ Hit me up:
+- Discord Server [Discord Server](https://discord.gg/VfkAERntMQ)
 - 📧 My Email: lampa@lampafr.dev
 
 > I don’t just write code. I write little worlds.
